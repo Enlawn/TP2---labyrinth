@@ -11,7 +11,7 @@ Révelation de fou malade : le gomu gomu no mi n'était pas le gomu gomu no mi (
 
 
 bref après moult péripétie (l'arc dure 4 ans irl...) on s'approche de la fin 
-vous pouvez vous en apprendre plus sur ce qu'il se passe dans en parallèle de l'arc à [Marie-Joie](https://github.com/Enlawn/TP2---labyrinth/edit/main/invasion%20Marie-Joie.md)
+vous pouvez vous en apprendre plus sur ce qu'il se passe dans en parallèle de l'arc à [Marie-Joie](https://github.com/Enlawn/TP2---labyrinth/blob/main/Reverie%20%C3%A0%20Marie-Joie.md)
 
 
 
