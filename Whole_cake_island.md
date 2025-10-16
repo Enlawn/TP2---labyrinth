@@ -16,6 +16,6 @@ en parallèle, Luffy, nami, sanji n co retrouve le reste de l'équipage à Zoo
 <img width="3206" height="2018" alt="image" src="https://github.com/user-attachments/assets/761723df-945e-42d0-87dc-cc2c44a68865" />  
 
 
-dirigez vous maintenant vers l'île suivante : [Wano Kuni] (https://github.com/Enlawn/TP2---labyrinth/blob/main/wa_no_kuni.md)
+dirigez vous maintenant vers l'île suivante : [Wano Kuni](https://github.com/Enlawn/TP2---labyrinth/blob/main/wa_no_kuni.md)
 
-made by enlawn (AB) (image trouvé sur internet)
+<!-- made by enlawn (AB) --> (image trouvé sur internet)
