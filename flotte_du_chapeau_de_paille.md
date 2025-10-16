@@ -16,4 +16,4 @@ retournez a [DressRosa](https://github.com/Enlawn/TP2---labyrinth/blob/main/Dres
 
 
 
-made by enlawn (AB)
+<!-- made by enlawn (AB) -->
