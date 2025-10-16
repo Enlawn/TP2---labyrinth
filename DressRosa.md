@@ -1,6 +1,6 @@
-Petit voyage en espagne ?
-ambiance hispanique pendant l'un des arc les plus long de la série.
-Moment fort : on a un flashback sur l'enfance de Luffy avec ACE (repose en paix goat) et SABO, qu'on pensait être devenu de la nouritture à monstre marin.
+Petit voyage en espagne ?  
+ambiance hispanique pendant l'un des arc les plus long de la série.  
+Moment fort : on a un flashback sur l'enfance de Luffy avec ACE (repose en paix goat) et SABO, qu'on pensait être devenu de la nouritture à monstre marin.  
 <img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/5a270f83-9178-4327-924e-5cc0244cd9d6" />
 
 
@@ -13,7 +13,7 @@ On a la regen de ousamma ammar avec god ussop
 et luffy qui fracasse Doflamingo  
 <img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/9b52efc8-1ab6-41db-9ebd-3dce0ac125fa" />
 
-Dans cet arc on a une belle introduction à la face sombre (encore plus sombre que ce qu'on a pu voir pendant l'arc des hommes poissons) des dragons célestes.
+Dans cet arc on a une belle introduction à la face sombre (encore plus sombre que ce qu'on a pu voir pendant l'arc des hommes poissons) des dragons célestes.  
 dirigez vous vers [les premiers pas de Luffy vers le rang d'empereur des mers](https://github.com/Enlawn/TP2---labyrinth/blob/main/flotte_du_chapeau_de_paille.md)
 
 Si vous préfèrez avancer dans l'histoire, rendez vous à [l'ile des gateaux](https://github.com/Enlawn/TP2---labyrinth/blob/main/Whole_cake_island.md)
