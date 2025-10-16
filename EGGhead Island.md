@@ -1,4 +1,4 @@
-Bienvenue dans le monde fantastique et technologique de votre professeur à la calvitie avancé préféré, j'ai nommé VEGA Punk  
+Bienvenue dans le monde fantastique et technologique de votre professeur à la calvitie avancé préféré, j'ai nommé VEGA Punk (je sais plus le combien) 
 <img width="457" height="903" alt="image" src="https://github.com/user-attachments/assets/b233d989-1ecc-4004-ab7d-8ff42abcb5f9" />
 
 
