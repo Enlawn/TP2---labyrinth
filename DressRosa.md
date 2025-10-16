@@ -16,5 +16,10 @@ et luffy qui fracasse Doflamingo
 Dans cet arc on a une belle introduction à la face sombre (encore plus sombre que ce qu'on a pu voir pendant l'arc des hommes poissons) des dragons célestes.
 dirigez vous vers [les premiers pas de Luffy vers le rang d'empereur des mers](https://github.com/Enlawn/TP2---labyrinth/blob/main/flotte_du_chapeau_de_paille.md)
 
+Si vous préfèrez avancer dans l'histoire, rendez vous à [l'ile des gateaux](https://github.com/Enlawn/TP2---labyrinth/blob/main/Whole_cake_island.md)
+<img width="1022" height="456" alt="image" src="https://github.com/user-attachments/assets/d3325de8-c9ad-4601-9390-1936197a554d" />
+
+
+
 
 <!-- made by enlawn (AB) -->
