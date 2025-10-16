@@ -10,7 +10,7 @@ Toujours est-il que cet arc marque le début de la fin pour one piece, comme l'a
 
 <img width="1000" height="1173" alt="image" src="https://github.com/user-attachments/assets/2bca4aaf-9b72-4ede-bb69-4a3e698f4545" />
 
-on va maintenant se diriger vers [l'île des géants]()
+on va maintenant se diriger vers [l'île des géants](https://github.com/Enlawn/TP2---labyrinth/blob/main/ERBAF.md)
 
 
 
