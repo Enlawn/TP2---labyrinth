@@ -5,7 +5,9 @@ Bienvenue sur ERBAF, la terre des géants
 Terre d'origine des pirates geants
 <img width="1000" height="514" alt="image" src="https://github.com/user-attachments/assets/ba5df047-257c-4648-b579-d31c0db60e5d" />
 
-on est à la dernière ile avant [laugth tale]()
+on est à la dernière ile avant [laugth tale](https://github.com/Enlawn/TP2---labyrinth/blob/main/Laugh%20tale.md)
+<img width="579" height="232" alt="image" src="https://github.com/user-attachments/assets/3b36fff8-c8ef-40d6-beb5-8290452775df" />
+
 
 
 
