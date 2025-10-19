@@ -1,4 +1,4 @@
-Bienvenue au pays des sammurais, des ninjas et possiblement le pays d'ou viennent les ancêtres de Zoro.
+Bienvenue au pays des sammurais, des ninjas et possiblement le pays d'ou viennent les ancêtres de Zoro.  
 En gros c'est un japon à la sauce One piece !  
 <img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/f9b5cf04-3be8-4c47-81f8-57c0b1b02268" />
 
