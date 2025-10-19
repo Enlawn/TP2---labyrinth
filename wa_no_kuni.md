@@ -1,5 +1,5 @@
 Bienvenue au pays des sammurais, des ninjas et possiblement le pays d'ou viennent les ancêtres de Zoro.
-En gros c'est un japon à la sauce One piece
+En gros c'est un japon à la sauce One piece !  
 <img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/f9b5cf04-3be8-4c47-81f8-57c0b1b02268" />
 
 vous pouvez en apprendre plus sur ce qu'il se passe juste avant l'arc à [Marie-Joie](https://github.com/Enlawn/TP2---labyrinth/blob/main/Reverie%20%C3%A0%20Marie-Joie.md)
